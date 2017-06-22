@@ -4,7 +4,7 @@
 public class MatrixChainMultiplication {
 
     public static void main(String[] args) {
-        int theArray[] = new int[] {1, 2, 3, 4};
+        int theArray[] = new int[] {10, 100, 5, 50};
 
 
         MatrixChainMultiplication matrixChainMultiplication = new MatrixChainMultiplication();
